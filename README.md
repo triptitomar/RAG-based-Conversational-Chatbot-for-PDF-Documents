@@ -10,6 +10,9 @@
 -Other Tools: PyPDFLoader, RecursiveCharacterTextSplitter, Environment Variables (.env)
 
 
+
+
+
 ✨ **Key Features:**
 
 -Developed a RAG (Retrieval-Augmented Generation) pipeline to intelligently answer questions from uploaded PDFs.
@@ -23,6 +26,9 @@
 -Integrated Groq API LLM for concise, three-sentence answers.
 
 -Ensured stateful chat history using st.session_state to track and maintain user interactions.
+
+
+
 
 📌 **Project Overview:**
 
