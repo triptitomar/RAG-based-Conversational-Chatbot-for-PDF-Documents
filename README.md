@@ -1,16 +1,16 @@
 ## 📄 RAG-based Conversational Chatbot for PDF Documents
 
 
-🛠️ Technology Stack:
+🛠️ **Technology Stack:**
 
-Languages & Frameworks: Python, Streamlit
+-Languages & Frameworks: Python, Streamlit
 
-Libraries & Tools: LangChain, HuggingFace, PyTorch, Chroma, Groq API
+-Libraries & Tools: LangChain, HuggingFace, PyTorch, Chroma, Groq API
 
-Other Tools: PyPDFLoader, RecursiveCharacterTextSplitter, Environment Variables (.env)
+-Other Tools: PyPDFLoader, RecursiveCharacterTextSplitter, Environment Variables (.env)
 
 
-✨ Key Features:
+✨ **Key Features:**
 
 -Developed a RAG (Retrieval-Augmented Generation) pipeline to intelligently answer questions from uploaded PDFs.
 
@@ -24,6 +24,6 @@ Other Tools: PyPDFLoader, RecursiveCharacterTextSplitter, Environment Variables 
 
 -Ensured stateful chat history using st.session_state to track and maintain user interactions.
 
-📌 Project Overview
+📌 **Project Overview:**
 
 This project allows users to upload PDF documents and interact with a conversational AI that answers questions based on the document content. The system intelligently understands context from previous messages, reformulates questions when necessary, and retrieves relevant information from the PDFs using vector embeddings.
