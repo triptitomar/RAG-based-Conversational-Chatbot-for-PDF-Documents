@@ -9,10 +9,7 @@
 
 -Other Tools: PyPDFLoader, RecursiveCharacterTextSplitter, Environment Variables (.env)
 
-<br><br>
-
-
-
+<br>
 
 
 ✨ **Key Features:**
@@ -29,7 +26,7 @@
 
 -Ensured stateful chat history using st.session_state to track and maintain user interactions.
 
-
+<br>
 
 
 📌 **Project Overview:**
