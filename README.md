@@ -5,7 +5,7 @@
 
 -Languages & Frameworks: Python, Streamlit
 
--Libraries & Tools: LangChain, HuggingFace, PyTorch, Chroma, Groq API
+-Libraries & Tools: LangChain, HuggingFace, Chroma, Groq API
 
 -Other Tools: PyPDFLoader, RecursiveCharacterTextSplitter, Environment Variables (.env)
 
